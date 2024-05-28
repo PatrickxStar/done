@@ -1,0 +1,1 @@
+git rebase - takes you back to the original point where all commits were the same. 
